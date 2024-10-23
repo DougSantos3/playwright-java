@@ -3,3 +3,6 @@
 
 ### Compila e executa o projeto
 `mvn compile exec:java -Dexec.mainClass=com.example.PlaywrightTest`
+
+### Rodar os testes locais
+`mvn test`
